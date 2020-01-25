@@ -1,3 +1,3 @@
 # MavenWebApplicationJava
 
-Applicacion Web - Crud Cliente
+Applicacion Web Maven - Crud Cliente
